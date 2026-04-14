@@ -25,7 +25,7 @@ JavaScript (ES6+), HTML5, CSS3, Chrome Extension API (Manifest V3).
 
 4) Click "Load Unpacked."
 
-5)Select the folder from step 2.
+5) Select the folder from step 2.
 
 6) In the extension details tab select 'pin to toolbar'.
 
