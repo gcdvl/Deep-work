@@ -15,7 +15,7 @@ JavaScript (ES6+), HTML5, CSS3, Chrome Extension API (Manifest V3).
 
 -----------------------------------------HOW TO INSTALL-----------------------------------------
 
-1) Download the ZIP from GitHub.
+1) Download the Redditguardian ZIP from GitHub.
 
 2) Extract the files in a Folder.
 
